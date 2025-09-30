@@ -1,4 +1,4 @@
-# 💡 GPU Illumination – GPGPU Rendering Techniques
+# 💡 GPGPU Rendering Techniques - Illumination – Materials
 
 Projet académique réalisé à **CPE Lyon (5ETI – IMI 2024-2025)**.  
 L’objectif est d’exploiter la puissance de la programmation **GPU** pour mettre en œuvre des techniques de rendu temps réel, en utilisant **OpenGL** et des **shaders GLSL**.
@@ -8,16 +8,16 @@ L’objectif est d’exploiter la puissance de la programmation **GPU** pour met
 ## ✨ Fonctionnalités implémentées
 
 - **Illumination de Phong** : modèle d’éclairage classique avec composantes ambiante, diffuse et spéculaire.  
-  ![Phong](images/phong.png)
+  ![Phong](images-readme/phong.png)
 
 - **Multi-textures & Occlusion ambiante (AO)** : enrichissement visuel grâce à la combinaison de cartes de matériaux.  
-  ![AO](images/ao.png)
+  ![AO](images-readme/ao.png)
 
 - **Displacement mapping** : modification dynamique de la géométrie à partir d’une carte de hauteur.  
-  ![Displacement](images/displacement.png)
+  ![Displacement](images-readme/displacement.png)
 
 - **Normal mapping (espace tangent)** : simulation de détails de surface sans augmenter le nombre de sommets.  
-  ![Normal Mapping](images/normal_mapping.png)
+  ![Normal Mapping](images-readme/normal_mapping.png)
 
 ---
 
