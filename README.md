@@ -7,17 +7,17 @@ L’objectif est d’exploiter la puissance de la programmation **GPU** pour met
 
 ## ✨ Fonctionnalités implémentées
 
-- **Illumination de Phong** : modèle d’éclairage classique avec composantes ambiante, diffuse et spéculaire.  
-  ![Phong](images-readme/phong.png)
+- **Illumination de Phong** : modèle d’éclairage classique avec composantes ambiante, diffuse et spéculaire.
+  <img src="images-readme/phong.png" alt="Phong" width="350"/>
 
-- **Multi-textures & Occlusion ambiante (AO)** : enrichissement visuel grâce à la combinaison de cartes de matériaux.  
-  ![AO](images-readme/ao.png)
+- **Multi-textures & Occlusion ambiante (AO)** : enrichissement visuel grâce à la combinaison de cartes de matériaux.
+  <img src="images-readme/ao.png" alt="Phong" width="350"/>
 
-- **Displacement mapping** : modification dynamique de la géométrie à partir d’une carte de hauteur.  
-  ![Displacement](images-readme/displacement.png)
+- **Displacement mapping** : modification dynamique de la géométrie à partir d’une carte de hauteur.
+  <img src="images-readme/displacement.png" alt="Phong" width="350"/>
 
-- **Normal mapping (espace tangent)** : simulation de détails de surface sans augmenter le nombre de sommets.  
-  ![Normal Mapping](images-readme/normal_mapping.png)
+- **Normal mapping (espace tangent)** : simulation de détails de surface sans augmenter le nombre de sommets.
+  <img src="images-readme/normal_mapping.png" alt="Phong" width="350"/>
 
 ---
 
