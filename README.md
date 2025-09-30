@@ -35,8 +35,8 @@ L’objectif est d’exploiter la puissance de la programmation **GPU** pour met
 
 ```bash
 # Cloner le repo
-git clone https://github.com/username/GPU-Illumination.git
-cd GPU-Illumination
+git clone https://github.com/MathieuZem/GPGPU-Rendering-Techniques.git
+cd GPGPU-Rendering-Techniques
 
 # Compiler et exécuter (exemple avec CMake)
 mkdir build && cd build
